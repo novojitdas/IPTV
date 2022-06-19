@@ -1,15 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="Ebox" tvg-logo="https://www.hualigs.cn/image/6153c68d2b19b.jpg",Ebox Live
+#EXTINF:-1 group-title="Ebox 1" tvg-logo="https://www.hualigs.cn/image/6153c68d2b19b.jpg",Ebox Live
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
-#EXTINF:-1 group-title="Ebox" tvg-logo="https://www.hualigs.cn/image/6153c68d35f9b.jpg",Ebox Live 2
+#EXTINF:-1 group-title="Ebox 2" tvg-logo="https://www.hualigs.cn/image/6153c68d35f9b.jpg",Ebox Live 2
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8 
-#EXTINF:-1 group-title="Ebox" tvg-logo="https://www.hualigs.cn/image/6153c68d35f9b.jpg",ESPN
+#EXTINF:-1 group-title="Ebox 3" tvg-logo="https://www.hualigs.cn/image/6153c68d35f9b.jpg",ESPN
 http://tv2.ebox.live:8080/live/sonyespn.m3u8  
-#EXTINF:-1 group-title="Ebox" tvg-logo="https://www.hualigs.cn/image/6153c68d35f9b.jpg",SONY TEN 2
+#EXTINF:-1 group-title="Ebox 4" tvg-logo="https://www.hualigs.cn/image/6153c68d35f9b.jpg",SONY TEN 2
 http://tv2.ebox.live:8080/live/sonyten-2.m3u8  
-#EXTINF:-1 group-title="Ebox" tvg-logo="https://www.hualigs.cn/image/6153c68d35f9b.jpg",Star Sports 1
+#EXTINF:-1 group-title="Ebox 5" tvg-logo="https://www.hualigs.cn/image/6153c68d35f9b.jpg",Star Sports 1
 http://tv2.ebox.live:8080/live/starsports-1.m3u8 
-EXTINF:-1 group-title="Ebox" tvg-logo="https://www.hualigs.cn/image/6153c68d35f9b.jpg",Star Sports 2
+EXTINF:-1 group-title="Ebox 6" tvg-logo="https://www.hualigs.cn/image/6153c68d35f9b.jpg",Star Sports 2
 http://tv2.ebox.live:8080/live/starsports-1.m3u8 
-EXTINF:-1 group-title="Ebox" tvg-logo="https://www.hualigs.cn/image/6153c68d35f9b.jpg",Zee Bangla 
+EXTINF:-1 group-title="Ebox 7" tvg-logo="https://www.hualigs.cn/image/6153c68d35f9b.jpg",Zee Bangla 
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
+
