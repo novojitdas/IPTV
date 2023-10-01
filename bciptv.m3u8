@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="NAT GEO" tvg-logo="https://www.hualigs.cn/image/6153c68d2b19b.jpg",NAT GEO
+http://15.1.5.18:8082/ngohd/tracks-v1a1/mono.m3u8?token=980a9966f79a6c5639b982eb69e6bf3d96ec92c6-bbfd5dca6c23e023dabe76a003fbb4e5-1696164289-1696153489
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://www.hualigs.cn/image/6153c68d35f9b.jpg",LIVE
+http://15.1.5.10:8082/1LIVE/tracks-v1a1/mono.m3u8?token=0e6f103c552d88360feb9668d023ff415fbedb5e-31f5e08278a79b98e5a81ad8ef30130b-1696164470-1696153670
+#EXTINF:-1 group-title="SPORTS LIVE" tvg-logo="https://www.hualigs.cn/image/6153c68d35f9b.jpg",BTV
+http://15.1.5.14:8082/PTV/tracks-v1a1/mono.m3u8?token=8f597100d06db3d02f0076352181d018c6d4aa2d-39f11afa2fb14cb7bb899e8c5d726d46-1696164795-1696153995
